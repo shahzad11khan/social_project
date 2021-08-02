@@ -1,0 +1,1 @@
+  data-anijs="if: scroll, on: window, do: bounceInRight animated, before: $scrollReveal repeat"
